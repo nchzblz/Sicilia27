@@ -1,0 +1,6 @@
+{
+  "name": "Mariana & Lukas — 10 Year Anniversary in Sicily",
+  "description": "Visual prototype for Mariana & Lukas 10-year anniversary celebration in Sicily (May 28-30, 2027), featuring 3-day RSVP, collaborative Spotify playlist, and curated Italy & Europe travel guide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
